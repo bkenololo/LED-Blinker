@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Page-1" id="twXR1f4mhWs4z-qOs5Xf">
+    <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fXDPasOQ_LIZ4R3EcLzE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXDPasOQ_LIZ4R3EcLzE-3" target="fXDPasOQ_LIZ4R3EcLzE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fXDPasOQ_LIZ4R3EcLzE-3" value="FPGA Clock 50MHz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXDPasOQ_LIZ4R3EcLzE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fXDPasOQ_LIZ4R3EcLzE-11" target="fXDPasOQ_LIZ4R3EcLzE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fXDPasOQ_LIZ4R3EcLzE-11" value="Counter to 25M cycles and Pulse generator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXDPasOQ_LIZ4R3EcLzE-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fXDPasOQ_LIZ4R3EcLzE-15" value="LED (Active Low)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="265" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fXDPasOQ_LIZ4R3EcLzE-17" value="Input :&amp;nbsp;&lt;div&gt;- 50 MHz Clock&lt;/div&gt;&lt;div&gt;- Reset (Active High)&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="320" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fXDPasOQ_LIZ4R3EcLzE-18" value="Output:&amp;nbsp;&lt;div&gt;- tick_enable&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fXDPasOQ_LIZ4R3EcLzE-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="330" as="sourcePoint" />
+            <mxPoint x="320" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="330" />
+              <mxPoint x="270" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXDPasOQ_LIZ4R3EcLzE-20" value="Rst" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

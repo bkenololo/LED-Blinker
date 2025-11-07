@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/engineer things/Praktikum 3 Modulo
+Eled_blinker
+Z0 w1762489937
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3
+Z4 dD:/engineer things/Digital System/LED Blinker/sim
+Z5 8D:/engineer things/Digital System/LED Blinker/src/LED_Blinker.vhd
+Z6 FD:/engineer things/Digital System/LED Blinker/src/LED_Blinker.vhd
+l0
+L5 1
+V;=3iA;f7[OQY@9@0Z@E5D3
+!s100 XcDJXj;c0h;oCY]FRe[9B1
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1762504561
+!i10b 1
+Z9 !s108 1762504560.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/engineer things/Digital System/LED Blinker/src/LED_Blinker.vhd|
+Z11 !s107 D:/engineer things/Digital System/LED Blinker/src/LED_Blinker.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abhv
+R1
+R2
+R3
+DEx4 work 11 led_blinker 0 22 ;=3iA;f7[OQY@9@0Z@E5D3
+!i122 3
+l18
+L14 38
+VI1]^aRaIXUT71:CHHUPc53
+!s100 =3BOjoNlckQPd0iYc<MHY1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_led_blinker
+Z14 w1762504117
+R1
+R2
+R3
+!i122 4
+R4
+Z15 8D:/engineer things/Digital System/LED Blinker/sim/tb_LED_Blinker.vhd
+Z16 FD:/engineer things/Digital System/LED Blinker/sim/tb_LED_Blinker.vhd
+l0
+L5 1
+V1HTW;<IE:O<NNV1LbQ4>g1
+!s100 H`<0>HL:k5ejOkbHY6NlK2
+R7
+32
+R8
+!i10b 1
+Z17 !s108 1762504561.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/engineer things/Digital System/LED Blinker/sim/tb_LED_Blinker.vhd|
+Z19 !s107 D:/engineer things/Digital System/LED Blinker/sim/tb_LED_Blinker.vhd|
+!i113 1
+R12
+R13
+Abhv
+R1
+R2
+R3
+Z20 DEx4 work 14 tb_led_blinker 0 22 1HTW;<IE:O<NNV1LbQ4>g1
+!i122 4
+l30
+Z21 L9 64
+Z22 V^@O>[73XoTf==HQTbeK5c1
+Z23 !s100 goG:2SDXOXk=KmlV`nz`f3
+R7
+32
+R8
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R12
+R13
